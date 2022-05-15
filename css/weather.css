@@ -5,7 +5,7 @@ a {text-decoration: none; color: black;}
 body {
     display: flex;
     align-items: center;
-    background: url('/img/introImg.jpg') no-repeat center center/cover;
+    background: url('../img/introImg.jpg') no-repeat center center/cover;
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
 }
